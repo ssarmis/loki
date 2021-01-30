@@ -5,7 +5,6 @@ of an image.
 I can't guarantee that it will be supported by all linux terminals
 (was tested only on Terminator and the base terminal).
 
-<img width=600px height=300px src="splash.png" />
 <img width=600px height=300px src="splash_2.png" />
 
 Usage:
